@@ -26,7 +26,7 @@ Este projeto segue os princípios da **Clean Architecture**, promovendo o desaco
 - **RabbitMQ**: Comunicação assíncrona com serviço de encoding de vídeos.
 - **JPA (Hibernate)**: Mapeamento objeto-relacional e persistência de dados.
 - **JUnit 5 / Mockito**: Testes unitários baseados em TDD.
-- **Maven**: Gerenciador de dependências e build.
+- **Gradlew**: Gerenciador de dependências e build.
 
 ---
 
